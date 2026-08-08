@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Customer_Name,Gender,Age,Product,Category,Quantity,Unit_Price,Total_Sales,Region,Payment_Method
+ORD-0001,2025-02-01,Olivia Moore,Non-binary,41.0,USB-C Charger,Electronics,4.0,24.99,99.96,North,Credit Card
+ORD-0002,2025-07-07,Charlotte Thomas,Male,58.0,Resistance Bands,Sports,4.0,18.99,75.96,West,PayPal
+ORD-0003,2025-05-27,Benjamin Anderson,Non-binary,67.0,Running Shoes,Sports,1.0,94.99,94.99,East,PayPal
+ORD-0004,2025-11-10,Alexander Smith,Non-binary,47.0,Yoga Mat,Sports,1.0,29.99,29.99,South,Cash
+ORD-0005,2025-06-12,,Non-binary,36.0,USB-C Charger,Electronics,4.0,24.99,99.96,East,Cash
+ORD-0006,2025-07-19,Mason Smith,Male,42.0,Denim Jacket,Clothing,2.0,69.99,139.98,East,Cash
+ORD-0007,2025-11-27,Olivia Jones,Female,69.0,Perfume,Beauty,2.0,59.99,119.98,North,PayPal
+ORD-0008,2025-05-01,Henry Davis,female,24.0,Denim Jacket,Clothing,3.0,69.99,209.97,East,Cash
+ORD-0009,2025-02-05,Amelia Taylor,Male,62.0,Moisturizer,Beauty,1.0,27.99,27.99,West,Apple Pay
+ORD-0010,2025-03-29,Alexander Jones,Non-binary,38.0,Resistance Bands,Sports,5.0,18.99,999.99,East,Credit Card
+ORD-0011,2025-10-12,Benjamin Thomas,Female,18.0,Facial Cleanser,Beauty,5.0,16.99,84.95,South,Cash
+ORD-0012,2025-01-14,Isabella Wilson,,42.0,Throw Pillow,Home,3.0,19.99,59.97,North,Credit Card
+ORD-0013,2025-01-29,Alexander Wilson,Non-binary,42.0,Water Bottle,Sports,4.0,22.99,91.96,East,Cash
+ORD-0014,2025-08-09,Benjamin Jones,Male,47.0,Water Bottle,Sports,1.0,22.99,22.99,South,PayPal
+ORD-0015,2025-01-13,Daniel Moore,M,39.0,Facial Cleanser,Beauty,2.0,16.99,33.98,West,Credit Card
+ORD-0016,2025-02-16,Olivia Anderson,Female,33.0,Moisturizer,Beauty,5.0,27.99,139.95,East,Cash
+ORD-0017,2025-04-28,Olivia Moore,Male,39.0,Perfume,Beauty,3.0,59.99,179.97,South,Credit Card
+ORD-0018,2025-09-19,Henry Miller,Male,56.0,Wireless Headphones,Electronics,4.0,79.99,319.96,West,PayPal
+ORD-0019,2025-03-02,Mason Miller,Female,,Facial Cleanser,Beauty,3.0,16.99,50.97,North,Debit Card
+ORD-0020,2025-05-06,Daniel Johnson,Male,37.0,Sneakers,Clothing,4.0,64.99,259.96,South,Apple Pay
+ORD-0021,2025-10-06,Mason Brown,Non-binary,55.0,Throw Pillow,Home,3.0,19.99,59.97,South,Cash
+ORD-0022,2025-01-29,Charlotte Jones,FEMALE,41.0,Air Purifier,Home,4.0,149.99,599.96,South,Apple Pay
+ORD-0023,2025-10-23,Charlotte Jones,Female,28.0,Bluetooth Speaker,Electronics,4.0,49.99,199.96,East,Credit Card
+ORD-0024,2025-08-31,Mason Taylor,Female,58.0,Resistance Bands,Sports,1.0,18.99,18.99,South,Cash
+ORD-0025,2025-10-04,Amelia Johnson,Female,52.0,Smart Watch,Electronics,1.0,129.99,129.99,West,Credit Card
+ORD-0026,2025-09-05,Henry Williams,Male,35.0,,Electronics,1.0,49.99,49.99,North,PayPal
+ORD-0027,2025-06-13,Daniel Wilson,Female,67.0,Denim Jacket,Clothing,2.0,69.99,139.98,East,PayPal
+ORD-0028,2025-06-20,Olivia Davis,Non-binary,68.0,Coffee Maker,Home,1.0,89.99,89.99,North,Credit Card
+ORD-0029,2025-02-28,Olivia Lee,Female,44.0,Desk Lamp,electronics,4.0,34.99,139.96,East,PayPal
+ORD-0030,2025-11-07,Isabella Davis,Female,35.0,Moisturizer,Beauty,5.0,27.99,139.95,South,Credit Card
+ORD-0031,2025-04-21,Isabella Williams,Female,65.0,Throw Pillow,Home,1.0,19.99,19.99,South,Credit Card
+ORD-0032,2025-09-24,Emma Anderson,Non-binary,32.0,Sneakers,Clothing,1.0,64.99,64.99,West,Cash
+ORD-0033,2025-03-28,Daniel Brown,Male,66.0,Coffee Maker,Home,,89.99,359.96,North,PayPal
+ORD-0034,2025-12-18,Mason Moore,Male,61.0,Running Shoes,Sports,2.0,94.99,189.98,North,Apple Pay
+ORD-0035,2025-12-28,Evelyn Brown,Non-binary,45.0,Cotton T-Shirt,Clothing,4.0,24.99,99.96,North,Credit Card
+ORD-0036,2025-02-25,Daniel Lee,Non-binary,41.0,Yoga Mat,Home ,2.0,29.99,59.98,North,Cash
+ORD-0037,2025-06-21,Mia Davis,Male,65.0,Hair Dryer,Beauty,2.0,74.99,149.98,North,Cash
+ORD-0038,2025-09-26,Alexander Johnson,Non-binary,37.0,Air Purifier,Home,3.0,149.99,449.97,South,Debit Card
+ORD-0039,2025-01-25,Ava Johnson,Non-binary,30.0,USB-C Charger,Electronics,5.0,24.99,124.95,West,Credit Card
+ORD-0040,2025-01-17,Charlotte Martin,Male,49.0,Denim Jacket,Clothing,2.0,,139.98,South,Debit Card
+ORD-0041,2025-06-08,Mason Davis,Male,69.0,Hair Dryer,Beauty,2.0,74.99,149.98,West,Credit Card
+ORD-0042,2025-12-20,Ava Taylor,Male,24.0,Wireless Headphones,Electronics,2.0,79.99,159.98,South,PayPal
+ORD-0043,2025-11-12,Olivia Williams,Non-binary,48.0,Perfume,Beauty,4.0,59.99,239.96,north,Cash
+ORD-0044,2025-07-27,Olivia Johnson,Non-binary,24.0,Smart Watch,Electronics,5.0,129.99,649.95,North,Debit Card
+ORD-0045,2025-04-25,Isabella Anderson,Non-binary,43.0,Moisturizer,Beauty,1.0,27.99,27.99,East,Debit Card
+ORD-0046,2025-02-24,James Wilson,Female,19.0,Hair Dryer,Beauty,3.0,74.99,224.97,West,Credit Card
+ORD-0047,2025-03-02,Ava Lee,Female,40.0,Denim Jacket,Clothing,4.0,69.99,279.96,,Apple Pay
+ORD-0048,2025-11-06,Amelia Thomas,Male,42.0,Wool Sweater,Clothing,3.0,84.99,254.97,East,Credit Card
+ORD-0049,2025-05-02,Mason Brown,Female,60.0,Throw Pillow,Home,2.0,19.99,39.98,West,Cash
+ORD-0050,2025-02-13,Ethan Miller,Female,49.0,Hair Dryer,Beauty,4.0,74.99,299.96, WEST,PayPal
+ORD-0051,2025-07-13,Ethan Miller,Male,63.0,Smart Watch,Electronics,5.0,129.99,649.95,South,Debit Card
+ORD-0052,2025-11-18,Daniel Johnson,Male,61.0,Perfume,Beauty,5.0,59.99,299.95,South,PayPal
+ORD-0053,2025-12-04,Sophia Jones,Male,61.0,Coffee Maker,Home,1.0,89.99,89.99,West,Apple Pay
+ORD-0054,2025-06-16,James Williams,Male,33.0,Yoga Mat,Sports,1.0,29.99,29.99,East,
+ORD-0055,2025-06-06,Harper Smith,Female,27.0,Denim Jacket,Clothing,1.0,69.99,69.99,East,Cash
+ORD-0056,2025-09-26,Daniel Davis,Non-binary,34.0,Moisturizer,Beauty,5.0,27.99,139.95,West,Apple Pay
+ORD-0057,2025-03-25,Alexander Brown,Male,27.0,Yoga Mat,Sports,3.0,29.99,89.97,East,Credit card
+ORD-0058,2025-12-04,Ava Garcia,Female,20.0,Moisturizer,Beauty,2.0,27.99,55.98,West,Credit Card
+ORD-0059,2025-09-09,Olivia Martin,Male,20.0,USB-C Charger,Electronics,1.0,24.99,24.99,West,Apple Pay
+ORD-0060,2025-07-31,Sophia Moore,Non-binary,69.0,Hair Dryer,Beauty,2.0,74.99,149.98,East,Cash
+ORD-0061,,Harper Wilson,Female,25.0,Wool Sweater,Clothing,4.0,84.99,339.96,West,Apple Pay
+ORD-0062,2025-04-02,Henry Anderson,Male,38.0,Moisturizer,Beauty,4.0,27.99,111.96,North,Credit Card
+ORD-0063,2025-05-04,Amelia Brown,Female,40.0,Running Shoes,Sports,1.0,94.99,94.99,East,Debit Card
+ORD-0064,2025-03-27,Noah Taylor,Male,38.0,Cotton T-Shirt,Clothing,3.0,24.99,74.97,West,paypal
+ORD-0065,2025-06-18,Benjamin Jones,Female,43.0,Wool Sweater,Clothing,5.0,84.99,424.95,West,Apple Pay
+ORD-0066,2025-10-07,James Davis,Female,60.0,Water Bottle,Sports,2.0,22.99,45.98,North,Debit Card
+ORD-0067,2025-07-03,James Taylor,Non-binary,28.0,Smart Watch,Electronics,1.0,129.99,129.99,West,Credit Card
+ORD-0068,2025-07-31,Amelia Taylor,Male,23.0,Perfume,Beauty,4.0,59.99,239.96,East,Apple Pay
+ORD-0069,2025-05-29,Noah Moore,Female,68.0,Denim Jacket,Clothing,5.0,69.99,349.95,South,Cash
+ORD-0070,2025-09-21,Liam Brown,Female,68.0,Hair Dryer,Beauty,5.0,74.99,374.95,North,Credit Card
+ORD-0071,03/18/2025,Mia Wilson,Female,27.0,Water Bottle,Sports,1.0,22.99,22.99,South,PayPal
+ORD-0072,2025-07-08,Evelyn Thomas,Female,58.0,Sneakers,Clothing,4.0,64.99,259.96,North,PayPal
+ORD-0073,2025-09-21,Benjamin Johnson,Male,24.0,USB-C Charger,Electronics,5.0,24.99,124.95,South,Cash
+ORD-0074,2025-09-24,Emma Taylor,Female,59.0,Cotton T-Shirt,Clothing,5.0,24.99,134.95,East,Apple Pay
+ORD-0075,2025-07-14,Benjamin Garcia,Male,32.0,Hair Dryer,Beauty,4.0,74.99,299.96,South,Credit Card
+ORD-0076,2025-09-27,James Miller,Female,67.0,Facial Cleanser,Beauty,1.0,16.99,16.99,North,Cash
+ORD-0077,2025-08-12,Lucas Thomas,Female,67.0,Smart Watch,Electronics,5.0,129.99,649.95,North,Debit Card
+ORD-0078,2025/07/04,Harper Lee,Male,56.0,Wool Sweater,Clothing,1.0,84.99,84.99,South,Apple Pay
+ORD-0079,2025-01-12,Mason Wilson,Non-binary,24.0,Perfume,Beauty,1.0,59.99,59.99,East,Credit Card
+ORD-0080,2025-12-20,Olivia Jones,Female,61.0,Bluetooth Speaker,Electronics,4.0,49.99,199.96,South,PayPal
+ORD-0081,2025-07-18,Charlotte Thomas,Male,66.0,Bluetooth Speaker,Electronics,3.0,49.99,149.97,South,Apple Pay
+ORD-0082,2025-01-16,Benjamin Moore,Male,33.0,USB-C Charger,Electronics,4.0,24.99,99.96,East,Apple Pay
+ORD-0083,2025-09-06,Amelia Johnson,Non-binary,52.0,Smart Watch,Electronics,1.0,129.99,129.99,West,Credit Card
+ORD-0084,2025-10-23,Alexander Thomas,Male,25.0,Coffee Maker,Home,3.0,89.99,269.97,North,Apple Pay
+ORD-0085,2025-02-27,Ava Smith,Male,19.0,Air Purifier,Home,3,149.99,749.95,West,Cash
+ORD-0086,2025-03-31,Ethan Moore,Male,30.0,Hair Dryer,Beauty,5.0,74.99,374.95,East,Apple Pay
+ORD-0087,2025-10-27,Harper Taylor,Non-binary,58.0,Hair Dryer,Beauty,1.0,74.99,74.99,South,Credit Card
+ORD-0088,2025-07-17,Henry Davis,Non-binary,24.0,Yoga Mat,Sports,1.0,29.99,29.99,East,Cash
+ORD-0042,2025-01-20,Harper Thomas,Male,26.0,USB-C Charger,Electronics,3.0,24.99,74.97,North,Debit Card
+ORD-0090,2025-07-05,Charlotte Anderson,Male,69.0,Smart Watch,Electronics,3.0,129.99,389.97,North,Cash
+ORD-0091,2025-05-31,Mason Taylor,Male,64.0,Wireless Headphones,Electronics,2.0,79.99,159.98,South,Credit Card
+ORD-0092,2025-07-18,James Miller,Non-binary,69.0,Denim Jacket,Clothing,2.0,$49.99,139.98,South,Cash
+ORD-0093,2025-07-17,Emma Lee,Male,25.0,Perfume,Beauty,3.0,59.99,179.97,South,PayPal
+ORD-0094,2025-02-27,Olivia Lee,Male,52.0,Water Bottle,Sports,2.0,22.99,45.98,South,PayPal
+ORD-0095,2025-12-22,Mia Johnson,Male,43.0,Cotton T-Shirt,Clothing,5.0,24.99,124.95,West,Debit Card
+ORD-0096,2025-05-27,Benjamin Anderson,Female,40.0,Bluetooth Speaker,Electronics,4.0,49.99,199.96,West,PayPal
+ORD-0097,2025-08-08,Evelyn Wilson,Male, thirty,Bluetooth Speaker,Electronics,5.0,49.99,249.95,West,Credit Card
+ORD-0098,2025-02-04,Mia Brown,Female,43.0,Desk Lamp,Home,3.0,34.99,104.97,South,PayPal
+ORD-0003,2025-05-27,Benjamin Anderson,Non-binary,67.0,Running Shoes,Sports,1.0,94.99,94.99,East,PayPal
+ORD-0016,2025-02-16,Olivia Anderson,Female,33.0,Moisturizer,Beauty,5.0,27.99,139.95,East,Cash 
